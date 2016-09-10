@@ -1,7 +1,6 @@
-title            : my first course
-instructors      :
- - martijn+wells@datacamp.com
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
+title            : Wells Fargo R Course
+instructors      : Martijn and Weston
+description      : A Demo Course For Wells Fargo
 university       : DataCamp
 difficulty_level : 2
 time_needed      : 1 hour

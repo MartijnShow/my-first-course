@@ -1,6 +1,6 @@
 ---
-title_meta  : Chapter 1
-title       : Introduction
+title_meta  : Chapter 2
+title       : The second datacamp chapter
 description : In this chapter we’ll get you into the right frame of mind for developing meaningful visualizations with R. You’ll understand that as a communications tool, visualizations require you to think about your audience first. You’ll also be introduced to the basics of ggplot2 - the 7 different grammatical elements (layers) and aesthetic mappings.
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/ggplot2/course_1/ggplot2_course1_ch1_slides.pdf
